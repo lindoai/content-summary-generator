@@ -1,0 +1,1 @@
+{ "name": "lindo-free-tool-content-summary-generator", "main": "src/index.ts", "workers_dev": true, "compatibility_date": "2025-11-17", "ai": { "binding": "AI" }, "observability": { "enabled": true } }
